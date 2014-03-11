@@ -26,3 +26,5 @@ public class Enter {
 	}
 
 }
+
+// Good job.  Pleas emake sure to put Week/Homework # in the project name
